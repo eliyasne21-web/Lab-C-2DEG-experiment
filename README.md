@@ -14,6 +14,6 @@ Analysis code and sheets:
 `gateSweeps` - contains the raw data from the variable gate mesurements.
 `SdH_amplitudes.xlsx` - contains identified extrema in the R_xx mesurments and perliminary analysis of the resulting frequency.
 `gateSweeps_exp_fits.xlsx` - contains exponential fits for the gate sweep data (not in the final paper). Said fits were aquired using the `exponentialFits.py` script and their plots can be found at `gateSweep_plots`.
-`flatZoneFinder.py` - is a script used for the identification of minima, maxima, and plateaus in any of the various measurments. Its it operated using the `flatFind.py` script, which functions as a frendlier user interface.
+`flatZoneFinder.py` - is a script used for the identification of minima, maxima, and plateaus in any of the various measurments. Its it operated using the `flatFind.py` script, which functions as a freindlier user interface.
 
 
