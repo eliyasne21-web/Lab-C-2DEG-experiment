@@ -5,7 +5,7 @@ The experiment is aimed at characterizing the transport properties of a 2D elect
 Contained within the repository are the following:
 1) Under `raw data` you can find the original experimental mesurements the analysis is based on.
 2) `main.tex` - this is the actual LaTeX written analysis.
-3) `2DEG_IdanSosnovsky_EliyaSne` - the analysis in PDF format.
+3) `2DEG_IdanSosnovsky_EliyaSne.pdf` - the analysis in PDF format.
 4) Under the `analysis code` folder you'lle find excel sheets and python scripts that were used in the analysis. more details below.
 5) Various figures produced during the analysis, including but not limited to those seen in the final paper.
 
