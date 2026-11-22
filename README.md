@@ -1,4 +1,4 @@
-This page is a repository for a 2DEG experiment analysis by Eliya Sne and Idan Sosnovsky.
+This page is a repository for a 2DEG experiment analysis by and Idan Sosnovsky Eliya Sne.
 
 The experiment is aimed at characterizing the transport properties of a 2D electron gas and the various phenomena that arise in it as a result of energy level quantization, which typically appear in low-single-digit kelvin cryogenic temperatures. the experiments are performed on a GaAs/AlGaAs heterostructure sample in a four-terminal Hall bar arrangement.
 
